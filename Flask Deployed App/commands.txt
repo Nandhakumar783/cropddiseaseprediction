@@ -1,0 +1,11 @@
+change directory to the project file path
+
+create environment:
+conda create -n env_name
+
+activate environment:
+conda activate env_name
+
+pip install -r 'requirements.txt'
+
+python 'app.py'
